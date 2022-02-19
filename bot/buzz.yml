@@ -1,0 +1,12 @@
+# This file allows to add hard-coded intents which will be matched by best matching.
+
+greeting:
+  inputs:
+    - "hey there"
+    - "whats up"
+    - "Hello"
+    - "Hi"
+    - "How are you?"
+  responses:
+    - "Hi there, how may I help you?"
+    - "Good"
